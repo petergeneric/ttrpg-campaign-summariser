@@ -1,0 +1,13 @@
+{
+  "name": "chatgpt-episode-summariser",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "@dqbd/tiktoken": "^1.0.7",
+    "console-log-level": "^1.4.1",
+    "openai": "^3.2.1"
+  },
+  "keywords": [],
+  "author": "Peter",
+  "license": "AGPL v3"
+}
