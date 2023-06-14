@@ -21,7 +21,8 @@ async function generateSummary(instructionFile, textFile) {
     const replacements = new Array();
 
 	// Generate the prompt
-	const promptText = await cat(instructionFile) + "\n" + await cat(textFile);
+	const systemMessage = await cat(instructionFile);
+	const promptText = await cat(textFile);
 
 
 	// Make the request to OpenAI
@@ -30,6 +31,7 @@ async function generateSummary(instructionFile, textFile) {
         completion = await openai.createChatCompletion({
             model: config.openai.model,
             messages: [
+             {role: "system", content: systemMessage},
              {role: "user", content: promptText},
             ]
         });
