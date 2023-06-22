@@ -25,6 +25,8 @@ You'll need to get the episode text. You may be lucky and have a high-quality tr
 - Running the episode audio through [whisper](https://github.com/ggerganov/whisper.cpp)
 - Downloading the YouTube Automatic Captions with a separate tool like yt-dlp
 
+This repository contains an example of a long playthrough, the Quests and Chaos Masks of Nyarlathotep campaign, reproduced here with permission. See `example-campaign-texts/great-dane-society-masks-of-nyarlathotep/`, which should act as a good datasource to get started if you want to experiment with different modifications to the model.
+
 Install Code Dependencies
 -------
 
