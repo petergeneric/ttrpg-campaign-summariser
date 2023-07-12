@@ -2623,7 +2623,33 @@ INTERMISSION
 - They witness the Migo using the weapon to launch into the air
 - The weapon does not explode and the group is left to deal with the aftermath
 
+EPISODE 68 Alt Transcript (Anthropic Claude 2)
+------------------------------------
+
+*The following summary was produced separately by Anthropic's Claude 2 LLM.*
+
+- The group starts aboard the battleship USS Texas, 4 days out from picking up allies on the mainland before heading to Grey Dragon Island. Everyone is healed from previous damage.
+- A derelict Japanese destroyer shadows the Texas. An investigation team boards it and finds the desiccated body of the captain with a mysterious English note and the corpse of Tidwell, killed through blood magic. The destroyer is abandoned.
+- The Texas docks secretly near Shanghai. Rogers and a Mi-Go operative named Johnson come aboard. Rogers initiates an assault plan on Grey Dragon Island involving a naval bombardment.
+- The group lands on the bombarded beach of Grey Dragon Island. They head down into the volcano base while hearing chanting and buzzing sounds.
+- In the base they find Lady Jezebel sacrificing Japanese soldiers to empower a doomsday weapon. Professor Aldridge attacks Jezebel but is killed.
+- Emma throws a grenade to blow up soldiers heading to the weapon. Alexandria attacks Jezebel but her knife passes through a projection. Emma eventually stabs Jezebel with Aldridge's magic sword.
+- The volcano shakes as the weapon activates. Delta Green soldiers provide cover fire against the Japanese soldiers. The Mi-Go take the activated weapon and fly off with it.
+- A Mi-Go tries to take Joan but she uses magic to reverse time and avoid capture. The Mi-Go with the weapon fly away. The day is saved without the weapon exploding.
+
+
 EPISODE 69
 ----------
 
-Please note, this episode has not yet been included in this example (it's missing intermission data, so the overall text is too large for a single invocation so it will require manual tuning)
+*The following summary was produced separately by Anthropic's Claude 2 LLM.*
+
+- The players discuss the events of the past 5 years for their characters after the conclusion of the main campaign.
+- Professor Lamb (Joan) initially plans to join Delta Green but instead goes on adventures through time with Emma from the Vatican. They obtain powerful artifacts by travelling back in time, but end up causing unintended changes to history. 
+- Emma continues trying to alter history to benefit the Catholic Church. Joan eventually realizes this is too chaotic and returns to work with Delta Green.
+- Alexandria spends a year in Ireland, occasionally working with Delta Green for a month out of the year. She eventually settles down there permanently. 
+- Hollister establishes a Delta Green base on Grey Dragon Island, staying in limited contact with the US government. He works to secure the remaining nuclear warheads on the island. 
+- The players discuss their favorite scenes and NPCs from throughout the campaign.
+- They talk about running the campaign as a GM, including tips for preparing and staying adaptable to players.
+- The GM asks each player for one thing they want to happen for their character before the end.
+- They announce plans for a new Call of Cthulhu campaign set in the Old West, with character creation happening on the next stream.
+- The players and viewers thank each other for two years of the gameplay sessions.
